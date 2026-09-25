@@ -1,0 +1,6 @@
+1790341705.824 capture_start out/armsx2-742/after-rp5-local-sequence-v2.mp4
+1790341707.943 select 1
+1790341708.769 r1 1
+1790341710.878 select 0
+1790341715.001 r1 0
+1790341720.978 capture_end out/armsx2-742/after-rp5-local-sequence-v2.mp4

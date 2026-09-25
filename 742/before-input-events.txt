@@ -1,0 +1,6 @@
+1790341385.748 capture_start out/armsx2-742/before-rp5-2.7-sequence.mp4
+1790341387.857 select 1
+1790341388.673 r1 1
+1790341390.785 select 0
+1790341394.899 r1 0
+1790341401.083 capture_end out/armsx2-742/before-rp5-2.7-sequence.mp4
